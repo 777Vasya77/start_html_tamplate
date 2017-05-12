@@ -1,0 +1,15 @@
+{
+  "name": "hoverboard",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Vasya Ponomarenko"
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^2.2.3",
+    "normalize-css": "normalize.css#^4.1.1",
+    "font-awesome": "fontawesome#^4.6.3",
+    "jquery.maskedinput": "^1.4.1"
+  }
+}

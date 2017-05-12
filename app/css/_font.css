@@ -1,0 +1,40 @@
+@font-face {
+  font-family: 'MagistralC-Bold';
+  src: url('../assets/fonts/MagistralC-Bold/MagistralC-Bold.eot?#iefix') format('embedded-opentype'),
+  url('../assets/fonts/MagistralC-Bold/MagistralC-Bold.otf')  format('opentype'),
+  url('../assets/fonts/MagistralC-Bold/MagistralC-Bold.woff') format('woff'),
+  url('../assets/fonts/MagistralC-Bold/MagistralC-Bold.ttf')  format('truetype'),
+  url('../assets/fonts/MagistralC-Bold/MagistralC-Bold.svg#MagistralC-Bold') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'MagistralTT';
+  src: url('../assets/fonts/MagistralTT/MagistralTT.eot?#iefix') format('embedded-opentype'),
+  url('../assets/fonts/MagistralTT/MagistralTT.woff') format('woff'),
+  url('../assets/fonts/MagistralTT/MagistralTT.ttf')  format('truetype'),
+  url('../assets/fonts/MagistralTT/MagistralTT.svg#MagistralTT') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'MagistralTT-Bold';
+  src: url('../assets/fonts/MagistralTT-Bold/MagistralTT-Bold.eot?#iefix') format('embedded-opentype'),
+  url('../assets/fonts/MagistralTT-Bold/MagistralTT-Bold.woff') format('woff'),
+  url('../assets/fonts/MagistralTT-Bold/MagistralTT-Bold.ttf')  format('truetype'),
+  url('../assets/fonts/MagistralTT-Bold/MagistralTT-Bold.svg#MagistralTT-Bold') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'HelveticaNeue-Light';
+  src: url('../assets/fonts/HelveticaNeue-Light/HelveticaNeue-Light.eot?#iefix') format('embedded-opentype'),
+  url('../assets/fonts/HelveticaNeue-Light/HelveticaNeue-Light.woff') format('woff'),
+  url('../assets/fonts/HelveticaNeue-Light/HelveticaNeue-Light.ttf')  format('truetype'),
+  url('../assets/fonts/HelveticaNeue-Light/HelveticaNeue-Light.svg#HelveticaNeue-Light') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
